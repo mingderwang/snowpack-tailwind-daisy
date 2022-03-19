@@ -11,5 +11,8 @@
     "postcss": "^8.3.5",
     "snowpack": "^3.4.0",
     "tailwindcss": "^2.1.2"
+  },
+  "dependencies": {
+    "daisyui": "^2.11.0"
   }
 }
