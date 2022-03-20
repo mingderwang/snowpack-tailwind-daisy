@@ -1,3 +1,5 @@
+import React from "react";
+
 /* This example requires Tailwind CSS v2.0+ */
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/solid";
 
