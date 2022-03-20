@@ -1,11 +1,11 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 export default {
   mount: {
-    public: '/',
-    src: '/_dist',
+    public: "/",
+    src: "/_dist",
   },
   devOptions: {
-    tailwindConfig: './tailwind.config.js',
+    tailwindConfig: "./tailwind.config.js",
   },
-  plugins: ['@snowpack/plugin-postcss'],
+  plugins: ["@snowpack/plugin-postcss"],
 };
